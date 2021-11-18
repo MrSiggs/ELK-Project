@@ -4,7 +4,7 @@ The files in this repository were used to configure the network depicted below.
 
 Project 1 Diagram of Elk.PNG
 
-![Project Diagram of Elk VM](https://user-images.githubusercontent.com/88859779/141648701-d191b487-e6e7-418c-98d4-6789db64fc82.png)
+![Project Diagram of Elk VM](https://app.diagrams.net/?title=Copy%20of%20Untitled%20Diagram&client=1)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _Ansible and YML_ file may be used to install only certain pieces of it, such as Filebeat.
