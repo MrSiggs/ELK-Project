@@ -371,7 +371,7 @@ _By specifying two groups in the_ `/etc/ansible/hosts` _file, labled [webservers
 
 Which URL do you navigate to in order to check that the ELK server is running?
 
-_**http:[Elk.VM.IP]:5601/app/kibana**_
+_**http:[40.86.87.100]:5601/app/kibana**_
 
 As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files
 
